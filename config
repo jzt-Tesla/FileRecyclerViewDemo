@@ -1,0 +1,11 @@
+Host gitlab
+
+HostName 192.168.2.106
+
+IdentityFile ~/.ssh/id_rsa
+
+Host github
+
+HostName github.com
+
+IdentityFile ~/.ssh/github_id_rsa
